@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "469267706998",
+    "project_id": "hirely-user",
+    "storage_bucket": "hirely-user.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469267706998:android:c532eaa877654dfb761b57",
+        "android_client_info": {
+          "package_name": "com.hirely"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469267706998-ca2vfo5ggckmg215mvffrl94dv7tvg2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzyYg2_lkROAu8MRiS6tbqqvshQFBBTYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469267706998-ca2vfo5ggckmg215mvffrl94dv7tvg2a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "469267706998-31cihbsn4si90umh7dd5189m5a5khcv6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hirely"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469267706998:android:eb29e07e0f406e38761b57",
+        "android_client_info": {
+          "package_name": "com.hirelyprovider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469267706998-ca2vfo5ggckmg215mvffrl94dv7tvg2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzyYg2_lkROAu8MRiS6tbqqvshQFBBTYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469267706998-ca2vfo5ggckmg215mvffrl94dv7tvg2a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "469267706998-31cihbsn4si90umh7dd5189m5a5khcv6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hirely"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
